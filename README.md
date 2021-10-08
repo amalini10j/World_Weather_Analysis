@@ -13,6 +13,13 @@ Jack needs help to provide real-time suggestions for the end user's ideal hotels
 **Data Source:** schools_complete.csv , students_complete.csv
 **Software:** Python 3.8, Visual Studio Code 1.59
 
+
+creating a community outreach website for middle school STEM students.
+
+This is an exciting project. These community-focused opportunities don't come around as often as you would like, and they are a great chance to get kids involved in STEM. Additionally, you work with other tech companies in the area, each taking on one aspect of the project.
+
+Your company is going to focus on climate change, and since you know how to use Matplotlib, you decide to create some visualizations that showcase the weather parameters you retrieved with changing latitude for the 500-plus cities from all over the world. The students will then be able to use these visualizations to explore how weather parameters change based on latitude.
+
 ## School District Data Analysis Results
 
 **How is the district summary affected?**
