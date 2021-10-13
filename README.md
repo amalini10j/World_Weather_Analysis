@@ -20,6 +20,10 @@ This is an exciting project. These community-focused opportunities don't come ar
 
 Your company is going to focus on climate change, and since you know how to use Matplotlib, you decide to create some visualizations that showcase the weather parameters you retrieved with changing latitude for the 500-plus cities from all over the world. The students will then be able to use these visualizations to explore how weather parameters change based on latitude.
 
+Now, the cherry on top of the project: a feature on the app that allows customers to search for locations they want to travel based on their temperature preferences.
+
+Your clients will enter their preferences. Your code will tell them where to travel. It's beautiful, simple, and just needs a few more lines of code to actually work.
+
 ## School District Data Analysis Results
 
 **How is the district summary affected?**
